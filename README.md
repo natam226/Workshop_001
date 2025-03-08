@@ -74,7 +74,7 @@ You execute the three notebooks by the following order:
 2. 002_EDA.ipynb
 3. 003_clean_data_load.ipynb
 
-The correct python kernel must be chosen to run correctly
+The correct python kernel must be chosen to run correctly, the correct python kernel is the one stablished in the virtual environment
 
 ### Connecting the database with PowerBI
 

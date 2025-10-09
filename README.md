@@ -29,6 +29,8 @@ This dataset contains 10 columns with the following information:
 - Code Challenge Score
 - Technical Interview Score
 
+## How to replicate this project
+
 ### Clone the repository
 Execute the following command to clone the repository
 
